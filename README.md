@@ -12,7 +12,7 @@ An interactive Rubik's Cube built using React! This project allows users to inte
 
 💾 State Management - Uses React state/hooks to manage cube transformations.
 
-### Installation
+# Installation
 
 ## Clone the repository:
 
