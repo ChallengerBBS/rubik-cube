@@ -1,4 +1,4 @@
-## Rubik's Cube Interactive
+# Rubik's Cube Interactive
 
 An interactive Rubik's Cube built using React! This project allows users to interact with a 2D Rubik's Cube using buttons for rotation and manipulation.
 
