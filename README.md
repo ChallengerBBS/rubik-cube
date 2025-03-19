@@ -28,7 +28,7 @@ npm i
 
 npm run dev
 
-This will start the app at [ http://localhost:3000/](http://localhost:5173/).
+This will start the app at [ http://localhost:5173/](http://localhost:5173/).
 
 ## Run tests
 
