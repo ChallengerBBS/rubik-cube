@@ -1,12 +1,50 @@
-# React + Vite
+## Rubik's Cube Interactive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive Rubik's Cube built using React! This project allows users to interact with a 2D Rubik's Cube using buttons for rotation and manipulation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 2D Cube Visualization - All sides of a Rubik's Cube rendered in the browser.
 
-## Expanding the ESLint configuration
+🎮 Interactive Controls - Buttons to rotate cube faces and solve challenges.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Built with React for smooth rendering.
+
+💾 State Management - Uses React state/hooks to manage cube transformations.
+
+### Installation
+
+## Clone the repository:
+
+git clone [https://github.com/yourusername/rubiks-cube-react.git](https://github.com/ChallengerBBS/rubik-cube.git)
+cd rubiks-cube
+
+## Install dependencies:
+
+npm i
+
+## Run the development server:
+
+npm run dev
+
+This will start the app at [ http://localhost:3000/](http://localhost:5173/).
+
+## Run tests
+
+npm run test
+
+## Usage
+
+Click on the rotate buttons to manipulate the cube.
+
+Try solving the cube or scrambling it for a challenge!
+
+## Technologies Used
+
+⚛ React - For UI components and state management.
+
+🖥 CSS & Styled Components - For styling.
+
+🐛 Vitest for writing unit tests.
+
+
