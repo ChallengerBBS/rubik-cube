@@ -1,0 +1,44 @@
+
+.cube-face-container {
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+}
+
+.cube-face-row {
+    display: flex;
+}
+
+.cube-cell {
+    width: 35px;
+    height: 35px;
+    border: 1px solid #000;
+}
+
+.controls{
+    padding: 15px;
+}
+
+.W {
+    background-color: white;
+}
+
+.R {
+    background-color: red;
+}
+
+.B {
+    background-color: blue;
+}
+
+.O {
+    background-color: orange;
+}
+
+.G {
+    background-color: green;
+}
+
+.Y {
+    background-color: yellow;
+}

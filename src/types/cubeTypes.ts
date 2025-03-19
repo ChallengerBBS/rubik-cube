@@ -1,0 +1,1 @@
+export type CubeColor = 'W' | 'R' | 'B' | 'O' | 'G' | 'Y';
