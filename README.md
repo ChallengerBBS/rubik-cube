@@ -17,7 +17,8 @@ An interactive Rubik's Cube built using React! This project allows users to inte
 ## Clone the repository:
 
 git clone [https://github.com/yourusername/rubiks-cube-react.git](https://github.com/ChallengerBBS/rubik-cube.git)
-cd rubiks-cube
+
+cd project's folder
 
 ## Install dependencies:
 
